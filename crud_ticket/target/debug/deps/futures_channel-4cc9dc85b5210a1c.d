@@ -1,0 +1,9 @@
+/Users/joshualyguessennd/Desktop/courses/rust_courses/web_app/target/debug/deps/futures_channel-4cc9dc85b5210a1c.rmeta: /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/lib.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/lock.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/mpsc/mod.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/mpsc/queue.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/oneshot.rs
+
+/Users/joshualyguessennd/Desktop/courses/rust_courses/web_app/target/debug/deps/futures_channel-4cc9dc85b5210a1c.d: /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/lib.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/lock.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/mpsc/mod.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/mpsc/queue.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/oneshot.rs
+
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/lib.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/lock.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/mpsc/mod.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/mpsc/queue.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.21/src/oneshot.rs:

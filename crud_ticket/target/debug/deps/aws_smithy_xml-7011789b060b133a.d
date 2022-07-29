@@ -1,0 +1,9 @@
+/Users/joshualyguessennd/Desktop/courses/rust_courses/web_app/target/debug/deps/aws_smithy_xml-7011789b060b133a.rmeta: /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/lib.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/decode.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/encode.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/escape.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/unescape.rs
+
+/Users/joshualyguessennd/Desktop/courses/rust_courses/web_app/target/debug/deps/aws_smithy_xml-7011789b060b133a.d: /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/lib.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/decode.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/encode.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/escape.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/unescape.rs
+
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/lib.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/decode.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/encode.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/escape.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-smithy-xml-0.46.0/src/unescape.rs:

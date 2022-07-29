@@ -1,0 +1,10 @@
+/Users/joshualyguessennd/Desktop/courses/rust_courses/web_app/target/debug/deps/tower_layer-5c5c607726683124.rmeta: /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/lib.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/identity.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/layer_fn.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/stack.rs
+
+/Users/joshualyguessennd/Desktop/courses/rust_courses/web_app/target/debug/deps/libtower_layer-5c5c607726683124.rlib: /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/lib.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/identity.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/layer_fn.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/stack.rs
+
+/Users/joshualyguessennd/Desktop/courses/rust_courses/web_app/target/debug/deps/tower_layer-5c5c607726683124.d: /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/lib.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/identity.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/layer_fn.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/stack.rs
+
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/lib.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/identity.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/layer_fn.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.1/src/stack.rs:

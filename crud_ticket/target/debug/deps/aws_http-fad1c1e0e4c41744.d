@@ -1,0 +1,10 @@
+/Users/joshualyguessennd/Desktop/courses/rust_courses/web_app/target/debug/deps/aws_http-fad1c1e0e4c41744.rmeta: /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/lib.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/auth.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/recursion_detection.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/retry.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/user_agent.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/content_encoding.rs
+
+/Users/joshualyguessennd/Desktop/courses/rust_courses/web_app/target/debug/deps/aws_http-fad1c1e0e4c41744.d: /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/lib.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/auth.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/recursion_detection.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/retry.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/user_agent.rs /Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/content_encoding.rs
+
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/lib.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/auth.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/recursion_detection.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/retry.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/user_agent.rs:
+/Users/joshualyguessennd/.cargo/registry/src/github.com-1ecc6299db9ec823/aws-http-0.46.0/src/content_encoding.rs:
